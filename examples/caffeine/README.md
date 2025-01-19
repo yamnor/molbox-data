@@ -8,3 +8,22 @@ The goal of the optimization is to identify the most stable molecular structure 
 - opt.gauout: Output file from Gaussian.
 - opt.xyz: Optimized geometry in XYZ format.
 - opt.sh: Script to submit Gaussian jobs.
+
+**bold**
+
+*italic*
+
+## Header 2
+
+### Header 3
+
+#### Header 4
+
+`code`
+
+[link](https://example.com)
+
+```
+1 2 3
+```
+
